@@ -17,9 +17,11 @@ namespace Stacks
         }
         private LinkedNode first;
         private int SIZE;
+        
+
         public bool isempty()
         {
-            
+            return SIZE == 0;  
         }
 
         public object peek()

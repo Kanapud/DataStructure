@@ -12,7 +12,7 @@
         }
         public bool isempty()
         {
-            throw new System.NotImplementedException();
+            return SIZE == 0;
         }
 
         public object peek()
