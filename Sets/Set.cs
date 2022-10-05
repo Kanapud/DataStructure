@@ -4,15 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Collections;
-using Sets;
 
-namespace Run
+namespace Sets
 {
-    internal class Program
+    public interface Set : Collection
     {
-        static void Main(string[] args)
-        {
-            
-        }
+        
     }
 }

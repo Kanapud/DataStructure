@@ -54,6 +54,10 @@
       <Project>{696e07d7-6d79-4e7a-8815-dc51d963b681}</Project>
       <Name>Collections</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Sets\Sets.csproj">
+      <Project>{7dc9d625-7a16-46c2-a59c-2422f41a19a0}</Project>
+      <Name>Sets</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

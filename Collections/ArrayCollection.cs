@@ -51,7 +51,7 @@ namespace Collections
             if (i != -1) 
             {
                 data[i] = data[--SIZE];
-                data[iSIZE] = null;
+                data[SIZE] = null;
             }
         }
 
