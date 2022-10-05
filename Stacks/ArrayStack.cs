@@ -12,7 +12,7 @@
         }
         public bool isempty()
         {
-            throw new System.NotImplementedException();
+            return SIZE == 0;
         }
 
         public object peek()
@@ -32,11 +32,8 @@
 
         public int size()
         {
-            throw new System.NotImplementedException();
+            return SIZE;
         }
-        private void ensureCapacity() 
-        {
-            
-        }
+        public object[] DATA() { return data; }
     }
 }

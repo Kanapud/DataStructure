@@ -1,4 +1,6 @@
 ﻿
+using Microsoft.SqlServer.Server;
+
 namespace Stacks
 {
     public class LinkedStack : Stack
@@ -15,9 +17,11 @@ namespace Stacks
         }
         private LinkedNode first;
         private int SIZE;
+        
+
         public bool isempty()
         {
-            throw new System.NotImplementedException();
+            return SIZE == 0;  
         }
 
         public object peek()
@@ -32,12 +36,12 @@ namespace Stacks
 
         public void push(object e)
         {
-            throw new System.NotImplementedException();
+            data[SIZE++] = e;
         }
 
         public int size()
         {
-            throw new System.NotImplementedException();
+            return SIZE;
         }
     }
 }
