@@ -17,20 +17,36 @@
 
         public object peek()
         {
-            throw new System.NotImplementedException();
+            if (SIZE == 0)
+                throw new System.MissingMemberException();
+            return data[SIZE - 1];
         }
 
         public object pop()
         {
-            throw new System.NotImplementedException();
+            object e = peek();
+            data[--SIZE] = null;
+            return e;
         }
 
         public void push(object e)
         {
-            throw new System.NotImplementedException();
+            ensureCapacity();
+            data[SIZE++] = e;
         }
 
-        public int size()
+        private void ensureCapacity()
+        {
+            if (SIZE + 1 > data.Length)
+            {
+                object[] tempdata = new object[SIZE * 2];
+                for (int i = 0; i < SIZE; i++)
+                    tempdata[i] = data[i];
+                data = tempdata;
+            }
+        }
+
+                public int size()
         {
             return SIZE;
         }
