@@ -32,11 +32,8 @@
 
         public int size()
         {
-            throw new System.NotImplementedException();
+            return SIZE;
         }
-        private void ensureCapacity() 
-        {
-            
-        }
+        public object[] DATA() { return data; }
     }
 }

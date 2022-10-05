@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sets", "Sets\Sets.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks", "Stacks\Stacks.csproj", "{E78FE512-3153-464F-8440-A1DA5CABE4FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHanoi", "TowerOfHanoi\TowerOfHanoi.csproj", "{C8771BA2-4C3E-49FD-B62D-93AA5F658801}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,14 @@ Global
 		{E78FE512-3153-464F-8440-A1DA5CABE4FD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E78FE512-3153-464F-8440-A1DA5CABE4FD}.Release|x86.ActiveCfg = Release|Any CPU
 		{E78FE512-3153-464F-8440-A1DA5CABE4FD}.Release|x86.Build.0 = Release|Any CPU
+		{C8771BA2-4C3E-49FD-B62D-93AA5F658801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8771BA2-4C3E-49FD-B62D-93AA5F658801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8771BA2-4C3E-49FD-B62D-93AA5F658801}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C8771BA2-4C3E-49FD-B62D-93AA5F658801}.Debug|x86.Build.0 = Debug|Any CPU
+		{C8771BA2-4C3E-49FD-B62D-93AA5F658801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8771BA2-4C3E-49FD-B62D-93AA5F658801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8771BA2-4C3E-49FD-B62D-93AA5F658801}.Release|x86.ActiveCfg = Release|Any CPU
+		{C8771BA2-4C3E-49FD-B62D-93AA5F658801}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
