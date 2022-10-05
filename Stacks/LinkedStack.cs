@@ -1,5 +1,6 @@
 ﻿
 using Microsoft.SqlServer.Server;
+using System;
 
 namespace Stacks
 {
@@ -26,17 +27,23 @@ namespace Stacks
 
         public object peek()
         {
-            throw new System.NotImplementedException();
+            if(isempty())
+                throw new System.MissingMemberException();
+            return first.e;
         }
 
         public object pop()
         {
-            throw new System.NotImplementedException();
+            object e = peek();
+            first = first.next;
+            SIZE--;
+            return e;   
         }
 
         public void push(object e)
         {
-            data[SIZE++] = e;
+            first = new LinkedNode(e, first);
+            SIZE++;
         }
 
         public int size()
