@@ -49,10 +49,10 @@ namespace TowerOfHanoi
                         to = c;
                         break;
                 }
-                if (!from.isEmpty())
+                if (!from.isempty())
                 {
                     int d = (int)from.peek();
-                    if (to.isEmpty() || (int)to.peek() > d)
+                    if (to.isempty() || (int)to.peek() > d)
                     {
                         to.push(from.pop());
                         n_move++;
@@ -68,7 +68,7 @@ namespace TowerOfHanoi
                 object[] data_a = ((ArrayStack)a).DATA();
                 object[] data_b = ((ArrayStack)b).DATA();
                 object[] data_c = ((ArrayStack)c).DATA();
-                if (a.isEmpty())
+                if (a.isempty())
                     Console.Write(n_move + ": [] ");
                 else
                 {
@@ -79,7 +79,7 @@ namespace TowerOfHanoi
                     }
                     Console.Write("\b] ");
                 }
-                if (b.isEmpty())
+                if (b.isempty())
                     Console.Write("[] ");
                 else
                 {
@@ -90,7 +90,7 @@ namespace TowerOfHanoi
                     }
                     Console.Write("\b] ");
                 }
-                if (c.isEmpty())
+                if (c.isempty())
                     Console.Write("[]\n");
                 else
                 {
