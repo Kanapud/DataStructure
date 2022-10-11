@@ -1,11 +1,9 @@
-﻿
-using Microsoft.SqlServer.Server;
-using System;
-
-namespace Stacks
+﻿namespace Stacks
 {
     public class LinkedStack : Stack
     {
+        int SIZE;
+        private LinkedNode first;
         private class LinkedNode
         {
             public object e;
@@ -16,20 +14,17 @@ namespace Stacks
                 this.next = next;
             }
         }
-        private LinkedNode first;
-        private int SIZE;
-        
 
-        public bool isempty()
+        public bool isEmpty()
         {
-            return SIZE == 0;  
+            return SIZE == 0;
         }
 
         public object peek()
         {
-            if(isempty())
+            if (isEmpty())
                 throw new System.MissingMemberException();
-            return first.e;
+            return first;
         }
 
         public object pop()
@@ -37,7 +32,7 @@ namespace Stacks
             object e = peek();
             first = first.next;
             SIZE--;
-            return e;   
+            return e;
         }
 
         public void push(object e)

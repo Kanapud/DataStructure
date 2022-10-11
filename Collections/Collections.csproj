@@ -44,6 +44,7 @@
     <Compile Include="ArrayCollection.cs" />
     <Compile Include="Collection.cs" />
     <Compile Include="Linked.cs" />
+    <Compile Include="LinkedCollection.cs" />
     <Compile Include="LinkedHeaderCollection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

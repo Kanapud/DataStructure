@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C8771BA2-4C3E-49FD-B62D-93AA5F658801}</ProjectGuid>
+    <ProjectGuid>{3647EFBC-B02E-416A-B707-54B05DE5794F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>TowerOfHanoi</RootNamespace>
     <AssemblyName>TowerOfHanoi</AssemblyName>
@@ -54,16 +54,16 @@
       <Project>{696e07d7-6d79-4e7a-8815-dc51d963b681}</Project>
       <Name>Collections</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Run\Run.csproj">
-      <Project>{b11704cd-65ce-4b5c-ac92-5cb2986ec75a}</Project>
-      <Name>Run</Name>
+    <ProjectReference Include="..\Lists\Lists.csproj">
+      <Project>{d8081e3e-435d-4f8e-b134-25308ace8c53}</Project>
+      <Name>Lists</Name>
     </ProjectReference>
     <ProjectReference Include="..\Sets\Sets.csproj">
-      <Project>{7dc9d625-7a16-46c2-a59c-2422f41a19a0}</Project>
+      <Project>{492dbafb-6c53-45d6-9ac0-db8a08fdda7f}</Project>
       <Name>Sets</Name>
     </ProjectReference>
     <ProjectReference Include="..\Stacks\Stacks.csproj">
-      <Project>{e78fe512-3153-464f-8440-a1da5cabe4fd}</Project>
+      <Project>{390da9af-f24f-46b3-ba2b-86125ad03af1}</Project>
       <Name>Stacks</Name>
     </ProjectReference>
   </ItemGroup>
