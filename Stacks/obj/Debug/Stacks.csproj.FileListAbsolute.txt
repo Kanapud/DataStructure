@@ -1,0 +1,6 @@
+C:\Users\okana\source\repos\DataStructure\Stacks\bin\Debug\Stacks.dll
+C:\Users\okana\source\repos\DataStructure\Stacks\bin\Debug\Stacks.pdb
+C:\Users\okana\source\repos\DataStructure\Stacks\obj\Debug\Stacks.csproj.AssemblyReference.cache
+C:\Users\okana\source\repos\DataStructure\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\okana\source\repos\DataStructure\Stacks\obj\Debug\Stacks.dll
+C:\Users\okana\source\repos\DataStructure\Stacks\obj\Debug\Stacks.pdb

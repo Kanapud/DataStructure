@@ -1,0 +1,8 @@
+C:\Users\okana\source\repos\DataStructure\MazeRunner\bin\Debug\MazeRunner.exe.config
+C:\Users\okana\source\repos\DataStructure\MazeRunner\bin\Debug\MazeRunner.exe
+C:\Users\okana\source\repos\DataStructure\MazeRunner\bin\Debug\MazeRunner.pdb
+C:\Users\okana\source\repos\DataStructure\MazeRunner\obj\Debug\MazeRunner.csproj.AssemblyReference.cache
+C:\Users\okana\source\repos\DataStructure\MazeRunner\obj\Debug\MazeRunner.csproj.SuggestedBindingRedirects.cache
+C:\Users\okana\source\repos\DataStructure\MazeRunner\obj\Debug\MazeRunner.csproj.CoreCompileInputs.cache
+C:\Users\okana\source\repos\DataStructure\MazeRunner\obj\Debug\MazeRunner.exe
+C:\Users\okana\source\repos\DataStructure\MazeRunner\obj\Debug\MazeRunner.pdb

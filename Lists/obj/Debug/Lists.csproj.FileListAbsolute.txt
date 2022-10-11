@@ -1,0 +1,9 @@
+C:\Users\okana\source\repos\DataStructure\Lists\bin\Debug\Lists.dll
+C:\Users\okana\source\repos\DataStructure\Lists\bin\Debug\Lists.pdb
+C:\Users\okana\source\repos\DataStructure\Lists\bin\Debug\Collections.dll
+C:\Users\okana\source\repos\DataStructure\Lists\bin\Debug\Collections.pdb
+C:\Users\okana\source\repos\DataStructure\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+C:\Users\okana\source\repos\DataStructure\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\okana\source\repos\DataStructure\Lists\obj\Debug\Lists.csproj.CopyComplete
+C:\Users\okana\source\repos\DataStructure\Lists\obj\Debug\Lists.dll
+C:\Users\okana\source\repos\DataStructure\Lists\obj\Debug\Lists.pdb

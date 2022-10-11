@@ -1,0 +1,6 @@
+C:\Users\okana\source\repos\DataStructure\Collections\bin\Debug\Collections.dll
+C:\Users\okana\source\repos\DataStructure\Collections\bin\Debug\Collections.pdb
+C:\Users\okana\source\repos\DataStructure\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\okana\source\repos\DataStructure\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\okana\source\repos\DataStructure\Collections\obj\Debug\Collections.dll
+C:\Users\okana\source\repos\DataStructure\Collections\obj\Debug\Collections.pdb

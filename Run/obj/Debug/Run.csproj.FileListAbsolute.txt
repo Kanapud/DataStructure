@@ -1,0 +1,13 @@
+C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Run.exe.config
+C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Run.exe
+C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Run.pdb
+C:\Users\okana\source\repos\DataStructure\Run\obj\Debug\Run.csproj.AssemblyReference.cache
+C:\Users\okana\source\repos\DataStructure\Run\obj\Debug\Run.csproj.SuggestedBindingRedirects.cache
+C:\Users\okana\source\repos\DataStructure\Run\obj\Debug\Run.csproj.CoreCompileInputs.cache
+C:\Users\okana\source\repos\DataStructure\Run\obj\Debug\Run.exe
+C:\Users\okana\source\repos\DataStructure\Run\obj\Debug\Run.pdb
+C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Collections.dll
+C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Collections.pdb
+C:\Users\okana\source\repos\DataStructure\Run\obj\Debug\Run.csproj.CopyComplete
+C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Sets.dll
+C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Sets.pdb
