@@ -6,3 +6,6 @@ C:\Users\okana\source\repos\DataStructure\MazeRunner\obj\Debug\MazeRunner.csproj
 C:\Users\okana\source\repos\DataStructure\MazeRunner\obj\Debug\MazeRunner.csproj.CoreCompileInputs.cache
 C:\Users\okana\source\repos\DataStructure\MazeRunner\obj\Debug\MazeRunner.exe
 C:\Users\okana\source\repos\DataStructure\MazeRunner\obj\Debug\MazeRunner.pdb
+C:\Users\okana\source\repos\DataStructure\MazeRunner\bin\Debug\Stacks.dll
+C:\Users\okana\source\repos\DataStructure\MazeRunner\bin\Debug\Stacks.pdb
+C:\Users\okana\source\repos\DataStructure\MazeRunner\obj\Debug\MazeRunner.csproj.CopyComplete

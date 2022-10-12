@@ -4,17 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AB56B0E6-4B61-4F8F-B82A-4529C9A8A5C4}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>MazeRunner</RootNamespace>
-    <AssemblyName>MazeRunner</AssemblyName>
+    <ProjectGuid>{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Queues</RootNamespace>
+    <AssemblyName>Queues</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -24,7 +23,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -43,13 +41,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="ArrayQueue.cs" />
+    <Compile Include="LinkedListQueue.cs" />
+    <Compile Include="Queue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
+    <ProjectReference Include="..\Collections\Collections.csproj">
+      <Project>{696E07D7-6D79-4E7A-8815-DC51D963B681}</Project>
+      <Name>Collections</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lists\Lists.csproj">
+      <Project>{d8081e3e-435d-4f8e-b134-25308ace8c53}</Project>
+      <Name>Lists</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sets\Sets.csproj">
+      <Project>{492dbafb-6c53-45d6-9ac0-db8a08fdda7f}</Project>
+      <Name>Sets</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Stacks\Stacks.csproj">
       <Project>{390da9af-f24f-46b3-ba2b-86125ad03af1}</Project>
       <Name>Stacks</Name>

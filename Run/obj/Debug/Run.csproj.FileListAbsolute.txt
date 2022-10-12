@@ -11,3 +11,9 @@ C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Collections.pdb
 C:\Users\okana\source\repos\DataStructure\Run\obj\Debug\Run.csproj.CopyComplete
 C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Sets.dll
 C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Sets.pdb
+C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Lists.dll
+C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Queues.dll
+C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Stacks.dll
+C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Lists.pdb
+C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Queues.pdb
+C:\Users\okana\source\repos\DataStructure\Run\bin\Debug\Stacks.pdb

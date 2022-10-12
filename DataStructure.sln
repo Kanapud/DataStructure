@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHanoi", "TowerOfHano
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeRunner", "MazeRunner\MazeRunner.csproj", "{AB56B0E6-4B61-4F8F-B82A-4529C9A8A5C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queues\Queues.csproj", "{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,14 @@ Global
 		{AB56B0E6-4B61-4F8F-B82A-4529C9A8A5C4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AB56B0E6-4B61-4F8F-B82A-4529C9A8A5C4}.Release|x86.ActiveCfg = Release|Any CPU
 		{AB56B0E6-4B61-4F8F-B82A-4529C9A8A5C4}.Release|x86.Build.0 = Release|Any CPU
+		{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}.Debug|x86.Build.0 = Debug|Any CPU
+		{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}.Release|x86.ActiveCfg = Release|Any CPU
+		{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

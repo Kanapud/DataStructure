@@ -69,9 +69,21 @@
       <Project>{696e07d7-6d79-4e7a-8815-dc51d963b681}</Project>
       <Name>Collections</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Lists\Lists.csproj">
+      <Project>{d8081e3e-435d-4f8e-b134-25308ace8c53}</Project>
+      <Name>Lists</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Queues\Queues.csproj">
+      <Project>{d48ca2d8-ae1e-4a62-ac8e-17dfa32bd155}</Project>
+      <Name>Queues</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Sets\Sets.csproj">
       <Project>{492dbafb-6c53-45d6-9ac0-db8a08fdda7f}</Project>
       <Name>Sets</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Stacks\Stacks.csproj">
+      <Project>{390da9af-f24f-46b3-ba2b-86125ad03af1}</Project>
+      <Name>Stacks</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
