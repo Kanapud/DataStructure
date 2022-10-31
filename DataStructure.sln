@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeRunner", "MazeRunner\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queues\Queues.csproj", "{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{CE83ED18-96FE-4932-8619-CDC766693560}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,14 @@ Global
 		{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}.Release|x86.ActiveCfg = Release|Any CPU
 		{D48CA2D8-AE1E-4A62-AC8E-17DFA32BD155}.Release|x86.Build.0 = Release|Any CPU
+		{CE83ED18-96FE-4932-8619-CDC766693560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE83ED18-96FE-4932-8619-CDC766693560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE83ED18-96FE-4932-8619-CDC766693560}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CE83ED18-96FE-4932-8619-CDC766693560}.Debug|x86.Build.0 = Debug|Any CPU
+		{CE83ED18-96FE-4932-8619-CDC766693560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE83ED18-96FE-4932-8619-CDC766693560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE83ED18-96FE-4932-8619-CDC766693560}.Release|x86.ActiveCfg = Release|Any CPU
+		{CE83ED18-96FE-4932-8619-CDC766693560}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

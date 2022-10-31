@@ -1,0 +1,3 @@
+C:\Users\okana\source\repos\DataStructure\Tree\obj\Debug\Tree.csproj.AssemblyReference.cache
+C:\Users\okana\source\repos\DataStructure\Tree\obj\Debug\Tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\okana\source\repos\DataStructure\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
